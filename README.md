@@ -48,6 +48,10 @@ The models are evaluated using:
 - F1 Score
 - ROC AUC Score
 - Confusion Matrix & ROC Curve Visuals
+  
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ##  How to Run
 
@@ -56,7 +60,3 @@ The models are evaluated using:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
