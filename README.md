@@ -1,4 +1,4 @@
-# predict-loan-status
+# predict-bank-loan-status
 
 A machine learning project to predict bank loan approval status using classification models like Logistic Regression and Random Forest. Includes robust data preprocessing, evaluation metrics, and hyperparameter tuning.
 
