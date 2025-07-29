@@ -134,6 +134,6 @@ This project is open source under the MIT License.See the project license in the
 
 Author
 Shraddha Bhosale
-📧 Email: shraddhabhosale305@gmail.com
+📧 Email: shraddhabhosale0004@gmail.com
 🔗 GitHub: https://github.com/SHRA-B
 
